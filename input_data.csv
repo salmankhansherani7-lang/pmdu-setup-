@@ -1,0 +1,144 @@
+Complaint_ID,Region,Province,District,Department,Complaint_Category,Status,Submission_Date,Resolution_Date,Citizen_Feedback
+PK-PMDU-2026-100002,Rawalpindi Region,Punjab,Jhelum,School Education,Water Shortage,Forwarded,2026-10-12,,Pending
+PK-PMDU-2026-100005,Rawalpindi Region,Punjab,Rawalpindi,Health Department,Water Shortage,Resolved,2026-09-18,2026-10-01,Neutral
+PK-PMDU-2026-100007,Rawalpindi Region,Punjab,Chakwal,Municipal Services (RWMC),Water Shortage,Resolved,2026-02-11,2026-03-18,Dissatisfied
+PK-PMDU-2026-100020,Rawalpindi Region,Punjab,Chakwal,Police & Law Enforcement,Water Shortage,Resolved,2026-06-07,2026-06-11,Dissatisfied
+PK-PMDU-2026-100021,Rawalpindi Region,Punjab,Murree,School Education,Water Shortage,Resolved,2026-02-22,2026-03-22,Satisfied
+PK-PMDU-2026-100024,Rawalpindi Region,Punjab,Jhelum,Police & Law Enforcement,Water Shortage,Resolved,2026-02-25,2026-03-01,Neutral
+PK-PMDU-2026-100025,Rawalpindi Region,Punjab,Attock,District Administration,Water Shortage,Resolved,2026-06-29,2026-07-15,Neutral
+PK-PMDU-2026-100044,Rawalpindi Region,Punjab,Chakwal,Revenue & Land,Water Shortage,Escalated,2026-05-07,,Pending
+PK-PMDU-2026-100050,Rawalpindi Region,Punjab,Attock,Revenue & Land,Water Shortage,Escalated,2026-10-07,,Pending
+PK-PMDU-2026-100057,Rawalpindi Region,Punjab,Rawalpindi,District Administration,Water Shortage,Forwarded,2026-04-25,,Pending
+PK-PMDU-2026-100058,Rawalpindi Region,Punjab,Murree,School Education,Water Shortage,Escalated,2026-04-13,,Pending
+PK-PMDU-2026-100069,Rawalpindi Region,Punjab,Attock,Revenue & Land,Water Shortage,Resolved,2026-01-15,2026-02-06,Neutral
+PK-PMDU-2026-100070,Rawalpindi Region,Punjab,Murree,District Administration,Water Shortage,Resolved,2026-05-13,2026-06-01,Satisfied
+PK-PMDU-2026-100072,Rawalpindi Region,Punjab,Rawalpindi,Municipal Services (RWMC),Water Shortage,Resolved,2026-09-09,2026-09-12,Neutral
+PK-PMDU-2026-100086,Rawalpindi Region,Punjab,Jhelum,Health Department,Water Shortage,Resolved,2026-04-29,2026-05-19,Neutral
+PK-PMDU-2026-10108,Rawalpindi Region,Punjab,Attock,SNGPL Gas,Water Shortage,Under Process,2026-04-07,,Pending
+PK-PMDU-2026-100113,Rawalpindi Region,Punjab,Rawalpindi,Health Department,Water Shortage,Response Awaited,2026-09-07,,Pending
+PK-PMDU-2026-100117,Rawalpindi Region,Punjab,Murree,SNGPL Gas,Water Shortage,Resolved,2026-04-03,2026-04-10,Neutral
+PK-PMDU-2026-100179,Rawalpindi Region,Punjab,Rawalpindi,Health Department,Water Shortage,Resolved,2026-06-23,2026-07-05,Neutral
+PK-PMDU-2026-100186,Rawalpindi Region,Punjab,Rawalpindi,Revenue & Land,Water Shortage,Under Process,2026-10-11,,Pending
+PK-PMDU-2026-100196,Rawalpindi Region,Punjab,Jhelum,Police & Law Enforcement,Water Shortage,Under Process,2026-06-24,,Pending
+PK-PMDU-2026-100207,Rawalpindi Region,Punjab,Murree,IESCO / Power,Water Shortage,Resolved,2026-01-14,2026-02-10,Neutral
+PK-PMDU-2026-100210,Rawalpindi Region,Punjab,Rawalpindi,Municipal Services (RWMC),Water Shortage,Response Awaited,2026-01-03,,Pending
+PK-PMDU-2026-100244,Rawalpindi Region,Punjab,Attock,IESCO / Power,Water Shortage,Resolved,2026-09-23,2026-10-05,Neutral
+PK-PMDU-2026-100245,Rawalpindi Region,Punjab,Rawalpindi,Municipal Services (RWMC),Water Shortage,Response Awaited,2026-09-23,,Pending
+PK-PMDU-2026-100248,Rawalpindi Region,Punjab,Murree,Municipal Services (RWMC),Water Shortage,Under Process,2026-01-24,,Pending
+PK-PMDU-2026-100256,Rawalpindi Region,Punjab,Chakwal,IESCO / Power,Water Shortage,Resolved,2026-08-03,2026-08-15,Satisfied
+PK-PMDU-2026-100258,Rawalpindi Region,Punjab,Murree,Revenue & Land,Water Shortage,Resolved,2026-09-12,2026-10-09,Satisfied
+PK-PMDU-2026-100277,Rawalpindi Region,Punjab,Chakwal,Municipal Services (RWMC),Water Shortage,Resolved,2026-09-05,2026-09-22,Neutral
+PK-PMDU-2026-100283,Rawalpindi Region,Punjab,Attock,Health Department,Water Shortage,Forwarded,2026-10-15,,Pending
+PK-PMDU-2026-100301,Rawalpindi Region,Punjab,Murree,Police & Law Enforcement,Water Shortage,Response Awaited,2026-10-09,,Pending
+PK-PMDU-2026-100303,Rawalpindi Region,Punjab,Rawalpindi,District Administration,Water Shortage,Response Awaited,2026-02-09,,Pending
+PK-PMDU-2026-100314,Rawalpindi Region,Punjab,Murree,SNGPL Gas,Water Shortage,Resolved,2026-06-02,2026-07-01,Satisfied
+PK-PMDU-2026-100316,Rawalpindi Region,Punjab,Rawalpindi,Police & Law Enforcement,Water Shortage,Forwarded,2026-08-03,,Pending
+PK-PMDU-2026-100317,Rawalpindi Region,Punjab,Jhelum,District Administration,Water Shortage,Resolved,2026-02-04,2026-02-08,Dissatisfied
+PK-PMDU-2026-100323,Rawalpindi Region,Punjab,Murree,Revenue & Land,Water Shortage,Resolved,2026-03-18,2026-03-31,Satisfied
+PK-PMDU-2026-100330,Rawalpindi Region,Punjab,Rawalpindi,Revenue & Land,Water Shortage,Under Process,2026-04-19,,Pending
+PK-PMDU-2026-100339,Rawalpindi Region,Punjab,Jhelum,School Education,Water Shortage,Escalated,2026-01-25,,Pending
+PK-PMDU-2026-100345,Rawalpindi Region,Punjab,Jhelum,Police & Law Enforcement,Water Shortage,Resolved,2026-07-23,2026-08-19,Neutral
+PK-PMDU-2026-100355,Rawalpindi Region,Punjab,Jhelum,Revenue & Land,Water Shortage,Escalated,2026-05-20,,Pending
+PK-PMDU-2026-100357,Rawalpindi Region,Punjab,Rawalpindi,Municipal Services (RWMC),Water Shortage,Forwarded,2026-10-27,,Pending
+PK-PMDU-2026-100367,Rawalpindi Region,Punjab,Chakwal,IESCO / Power,Water Shortage,Resolved,2026-06-21,2026-07-01,Neutral
+PK-PMDU-2026-100375,Rawalpindi Region,Punjab,Rawalpindi,Health Department,Water Shortage,Forwarded,2026-10-02,,Pending
+PK-PMDU-2026-100382,Rawalpindi Region,Punjab,Rawalpindi,School Education,Water Shortage,Resolved,2026-02-28,2026-03-23,Dissatisfied
+PK-PMDU-2026-100390,Rawalpindi Region,Punjab,Chakwal,Health Department,Water Shortage,Resolved,2026-10-30,2026-11-09,Neutral
+PK-PMDU-2026-100401,Rawalpindi Region,Punjab,Jhelum,Health Department,Water Shortage,Resolved,2026-08-19,2026-08-26,Satisfied
+PK-PMDU-2026-100419,Rawalpindi Region,Punjab,Rawalpindi,School Education,Water Shortage,Resolved,2026-02-18,2026-03-22,Dissatisfied
+PK-PMDU-2026-100425,Rawalpindi Region,Punjab,Chakwal,School Education,Water Shortage,Under Process,2026-06-29,,Pending
+PK-PMDU-2026-100431,Rawalpindi Region,Punjab,Rawalpindi,Municipal Services (RWMC),Water Shortage,Forwarded,2026-01-09,,Pending
+PK-PMDU-2026-100447,Rawalpindi Region,Punjab,Rawalpindi,School Education,Water Shortage,Forwarded,2026-09-15,,Pending
+PK-PMDU-2026-100453,Rawalpindi Region,Punjab,Chakwal,Health Department,Water Shortage,Escalated,2026-07-12,,Pending
+PK-PMDU-2026-100455,Rawalpindi Region,Punjab,Rawalpindi,District Administration,Water Shortage,Forwarded,2026-03-14,,Pending
+PK-PMDU-2026-100464,Rawalpindi Region,Punjab,Attock,Health Department,Water Shortage,Resolved,2026-11-05,2026-11-27,Neutral
+PK-PMDU-2026-100478,Rawalpindi Region,Punjab,Attock,Health Department,Water Shortage,Resolved,2026-09-29,2026-10-15,Dissatisfied
+PK-PMDU-2026-100487,Rawalpindi Region,Punjab,Murree,IESCO / Power,Water Shortage,Forwarded,2026-03-31,,Pending
+PK-PMDU-2026-100495,Rawalpindi Region,Punjab,Rawalpindi,Revenue & Land,Water Shortage,Resolved,2026-07-13,2026-08-08,Satisfied
+PK-PMDU-2026-100499,Rawalpindi Region,Punjab,Chakwal,Police & Law Enforcement,Water Shortage,Resolved,2026-08-11,2026-08-19,Neutral
+PK-PMDU-2026-100502,Rawalpindi Region,Punjab,Chakwal,Revenue & Land,Water Shortage,Resolved,2026-07-04,2026-07-11,Satisfied
+PK-PMDU-2026-100507,Rawalpindi Region,Punjab,Murree,SNGPL Gas,Water Shortage,Resolved,2026-02-19,2026-03-15,Dissatisfied
+PK-PMDU-2026-100522,Rawalpindi Region,Punjab,Attock,Revenue & Land,Water Shortage,Forwarded,2026-11-06,,Pending
+PK-PMDU-2026-100526,Rawalpindi Region,Punjab,Attock,District Administration,Water Shortage,Response Awaited,2026-04-09,,Pending
+PK-PMDU-2026-100531,Rawalpindi Region,Punjab,Attock,Police & Law Enforcement,Water Shortage,Resolved,2026-07-17,2026-08-01,Neutral
+PK-PMDU-2026-100567,Rawalpindi Region,Punjab,Murree,Revenue & Land,Water Shortage,Resolved,2026-07-29,2026-08-02,Dissatisfied
+PK-PMDU-2026-100591,Rawalpindi Region,Punjab,Rawalpindi,Health Department,Water Shortage,Forwarded,2026-07-06,,Pending
+PK-PMDU-2026-100593,Rawalpindi Region,Punjab,Rawalpindi,Municipal Services (RWMC),Water Shortage,Resolved,2026-03-26,2026-04-23,Satisfied
+PK-PMDU-2026-100608,Rawalpindi Region,Punjab,Murree,SNGPL Gas,Water Shortage,Resolved,2026-08-20,2026-09-05,Dissatisfied
+PK-PMDU-2026-100611,Rawalpindi Region,Punjab,Attock,IESCO / Power,Water Shortage,Resolved,2026-05-09,2026-06-08,Dissatisfied
+PK-PMDU-2026-100617,Rawalpindi Region,Punjab,Rawalpindi,IESCO / Power,Water Shortage,Forwarded,2026-10-21,,Pending
+PK-PMDU-2026-100621,Rawalpindi Region,Punjab,Jhelum,Police & Law Enforcement,Water Shortage,Forwarded,2026-02-28,,Pending
+PK-PMDU-2026-100632,Rawalpindi Region,Punjab,Jhelum,School Education,Water Shortage,Resolved,2026-07-15,2026-07-18,Satisfied
+PK-PMDU-2026-100638,Rawalpindi Region,Punjab,Chakwal,Health Department,Water Shortage,Resolved,2026-10-09,2026-10-15,Dissatisfied
+PK-PMDU-2026-100639,Rawalpindi Region,Punjab,Chakwal,School Education,Water Shortage,Resolved,2026-10-25,2026-11-17,Satisfied
+PK-PMDU-2026-100648,Rawalpindi Region,Punjab,Chakwal,District Administration,Water Shortage,Resolved,2026-09-14,2026-10-11,Dissatisfied
+PK-PMDU-2026-100664,Rawalpindi Region,Punjab,Jhelum,School Education,Water Shortage,Resolved,2026-02-13,2026-03-17,Neutral
+PK-PMDU-2026-100666,Rawalpindi Region,Punjab,Murree,Health Department,Water Shortage,Response Awaited,2026-06-25,,Pending
+PK-PMDU-2026-100670,Rawalpindi Region,Punjab,Murree,SNGPL Gas,Water Shortage,Resolved,2026-09-25,2026-09-29,Neutral
+PK-PMDU-2026-100685,Rawalpindi Region,Punjab,Murree,Municipal Services (RWMC),Water Shortage,Response Awaited,2026-04-14,,Pending
+PK-PMDU-2026-100690,Rawalpindi Region,Punjab,Chakwal,Police & Law Enforcement,Water Shortage,Under Process,2026-06-27,,Pending
+PK-PMDU-2026-100699,Rawalpindi Region,Punjab,Jhelum,Police & Law Enforcement,Water Shortage,Resolved,2026-10-21,2026-11-04,Dissatisfied
+PK-PMDU-2026-100700,Rawalpindi Region,Punjab,Attock,Police & Law Enforcement,Water Shortage,Response Awaited,2026-05-04,,Pending
+PK-PMDU-2026-100715,Rawalpindi Region,Punjab,Attock,District Administration,Water Shortage,Resolved,2026-10-18,2026-10-26,Neutral
+PK-PMDU-2026-100727,Rawalpindi Region,Punjab,Chakwal,Police & Law Enforcement,Water Shortage,Resolved,2026-03-21,2026-04-16,Dissatisfied
+PK-PMDU-2026-100735,Rawalpindi Region,Punjab,Rawalpindi,IESCO / Power,Water Shortage,Forwarded,2026-05-30,,Pending
+PK-PMDU-2026-100736,Rawalpindi Region,Punjab,Jhelum,SNGPL Gas,Water Shortage,Response Awaited,2026-07-30,,Pending
+PK-PMDU-2026-100737,Rawalpindi Region,Punjab,Jhelum,SNGPL Gas,Water Shortage,Forwarded,2026-03-25,,Pending
+PK-PMDU-2026-100742,Rawalpindi Region,Punjab,Jhelum,District Administration,Water Shortage,Resolved,2026-02-22,2026-03-04,Satisfied
+PK-PMDU-2026-100760,Rawalpindi Region,Punjab,Murree,Revenue & Land,Water Shortage,Forwarded,2026-08-13,,Pending
+PK-PMDU-2026-100769,Rawalpindi Region,Punjab,Rawalpindi,District Administration,Water Shortage,Forwarded,2026-04-24,,Pending
+PK-PMDU-2026-100772,Rawalpindi Region,Punjab,Chakwal,Health Department,Water Shortage,Resolved,2026-05-17,2026-05-23,Dissatisfied
+PK-PMDU-2026-100773,Rawalpindi Region,Punjab,Murree,SNGPL Gas,Water Shortage,Resolved,2026-02-19,2026-03-07,Satisfied
+PK-PMDU-2026-100779,Rawalpindi Region,Punjab,Chakwal,Police & Law Enforcement,Water Shortage,Escalated,2026-08-09,,Pending
+PK-PMDU-2026-100793,Rawalpindi Region,Punjab,Murree,Health Department,Water Shortage,Escalated,2026-08-17,,Pending
+PK-PMDU-2026-100797,Rawalpindi Region,Punjab,Murree,Police & Law Enforcement,Water Shortage,Resolved,2026-04-12,2026-04-26,Satisfied
+PK-PMDU-2026-100804,Rawalpindi Region,Punjab,Murree,Police & Law Enforcement,Water Shortage,Resolved,2026-08-30,2026-09-14,Dissatisfied
+PK-PMDU-2026-100815,Rawalpindi Region,Punjab,Rawalpindi,Municipal Services (RWMC),Water Shortage,Response Awaited,2026-05-12,,Pending
+PK-PMDU-2026-100822,Rawalpindi Region,Punjab,Chakwal,School Education,Water Shortage,Escalated,2026-08-15,,Pending
+PK-PMDU-2026-100823,Rawalpindi Region,Punjab,Murree,Municipal Services (RWMC),Water Shortage,Resolved,2026-02-24,2026-02-27,Dissatisfied
+PK-PMDU-2026-100826,Rawalpindi Region,Punjab,Attock,Police & Law Enforcement,Water Shortage,Resolved,2026-07-18,2026-07-28,Satisfied
+PK-PMDU-2026-100837,Rawalpindi Region,Punjab,Attock,Revenue & Land,Water Shortage,Resolved,2026-07-31,2026-08-03,Neutral
+PK-PMDU-2026-100847,Rawalpindi Region,Punjab,Attock,Municipal Services (RWMC),Water Shortage,Resolved,2026-08-15,2026-08-17,Satisfied
+PK-PMDU-2026-100853,Rawalpindi Region,Punjab,Chakwal,SNGPL Gas,Water Shortage,Resolved,2026-08-30,2026-09-18,Dissatisfied
+PK-PMDU-2026-100857,Rawalpindi Region,Punjab,Attock,Municipal Services (RWMC),Water Shortage,Response Awaited,2026-04-03,,Pending
+PK-PMDU-2026-100869,Rawalpindi Region,Punjab,Chakwal,District Administration,Water Shortage,Resolved,2026-09-26,2026-10-05,Satisfied
+PK-PMDU-2026-100870,Rawalpindi Region,Punjab,Murree,School Education,Water Shortage,Resolved,2026-08-16,2026-09-17,Neutral
+PK-PMDU-2026-100872,Rawalpindi Region,Punjab,Rawalpindi,School Education,Water Shortage,Escalated,2026-03-15,,Pending
+PK-PMDU-2026-100875,Rawalpindi Region,Punjab,Rawalpindi,Municipal Services (RWMC),Water Shortage,Resolved,2026-02-22,2026-03-15,Neutral
+PK-PMDU-2026-100891,Rawalpindi Region,Punjab,Jhelum,IESCO / Power,Water Shortage,Resolved,2026-02-03,2026-03-04,Satisfied
+PK-PMDU-2026-100895,Rawalpindi Region,Punjab,Rawalpindi,Health Department,Water Shortage,Forwarded,2026-09-11,,Pending
+PK-PMDU-2026-100897,Rawalpindi Region,Punjab,Murree,Revenue & Land,Water Shortage,Resolved,2026-08-20,2026-09-15,Satisfied
+PK-PMDU-2026-100902,Rawalpindi Region,Punjab,Jhelum,School Education,Water Shortage,Resolved,2026-08-11,2026-08-24,Dissatisfied
+PK-PMDU-2026-100907,Rawalpindi Region,Punjab,Jhelum,IESCO / Power,Water Shortage,Resolved,2026-09-18,2026-10-18,Satisfied
+PK-PMDU-2026-100908,Rawalpindi Region,Punjab,Murree,Revenue & Land,Water Shortage,Forwarded,2026-08-06,,Pending
+PK-PMDU-2026-100948,Rawalpindi Region,Punjab,Attock,District Administration,Water Shortage,Escalated,2026-08-13,,Pending
+PK-PMDU-2026-100951,Rawalpindi Region,Punjab,Jhelum,Health Department,Water Shortage,Resolved,2026-06-23,2026-06-27,Dissatisfied
+PK-PMDU-2026-100953,Rawalpindi Region,Punjab,Jhelum,District Administration,Water Shortage,Resolved,2026-03-14,2026-03-17,Dissatisfied
+PK-PMDU-2026-100972,Rawalpindi Region,Punjab,Chakwal,SNGPL Gas,Water Shortage,Forwarded,2026-08-16,,Pending
+PK-PMDU-2026-100977,Rawalpindi Region,Punjab,Chakwal,Municipal Services (RWMC),Water Shortage,Resolved,2026-07-11,2026-07-25,Neutral
+PK-PMDU-2026-100985,Rawalpindi Region,Punjab,Jhelum,Revenue & Land,Water Shortage,Resolved,2026-09-29,2026-10-07,Satisfied
+PK-PMDU-2026-100991,Rawalpindi Region,Punjab,Jhelum,Municipal Services (RWMC),Water Shortage,Resolved,2026-06-20,2026-07-10,Dissatisfied
+PK-PMDU-2026-100995,Rawalpindi Region,Punjab,Jhelum,Police & Law Enforcement,Water Shortage,Resolved,2026-06-21,2026-06-30,Neutral
+PK-PMDU-2026-101001,Rawalpindi Region,Punjab,Jhelum,School Education,Water Shortage,Resolved,2026-05-22,2026-06-02,Dissatisfied
+PK-PMDU-2026-101005,Rawalpindi Region,Punjab,Attock,Municipal Services (RWMC),Water Shortage,Resolved,2026-10-18,2026-11-08,Neutral
+PK-PMDU-2026-101008,Rawalpindi Region,Punjab,Attock,School Education,Water Shortage,Escalated,2026-03-31,,Pending
+PK-PMDU-2026-101018,Rawalpindi Region,Punjab,Rawalpindi,SNGPL Gas,Water Shortage,Resolved,2026-04-11,2026-05-11,Neutral
+PK-PMDU-2026-101021,Rawalpindi Region,Punjab,Jhelum,Health Department,Water Shortage,Resolved,2026-05-26,2026-06-16,Dissatisfied
+PK-PMDU-2026-101027,Rawalpindi Region,Punjab,Murree,School Education,Water Shortage,Resolved,2026-05-20,2026-06-20,Satisfied
+PK-PMDU-2026-101046,Rawalpindi Region,Punjab,Jhelum,District Administration,Water Shortage,Resolved,2026-02-27,2026-03-31,Satisfied
+PK-PMDU-2026-101049,Rawalpindi Region,Punjab,Rawalpindi,Police & Law Enforcement,Water Shortage,Escalated,2026-01-06,,Pending
+PK-PMDU-2026-101053,Rawalpindi Region,Punjab,Rawalpindi,Police & Law Enforcement,Water Shortage,Escalated,2026-02-20,,Pending
+PK-PMDU-2026-101059,Rawalpindi Region,Punjab,Chakwal,SNGPL Gas,Water Shortage,Resolved,2026-08-16,2026-09-13,Satisfied
+PK-PMDU-2026-101080,Rawalpindi Region,Punjab,Attock,Police & Law Enforcement,Water Shortage,Resolved,2026-07-02,2026-07-07,Dissatisfied
+PK-PMDU-2026-101089,Rawalpindi Region,Punjab,Jhelum,SNGPL Gas,Water Shortage,Resolved,2026-06-22,2026-07-27,Neutral
+PK-PMDU-2026-101093,Rawalpindi Region,Punjab,Murree,District Administration,Water Shortage,Resolved,2026-08-28,2026-09-26,Neutral
+PK-PMDU-2026-101125,Rawalpindi Region,Punjab,Jhelum,Health Department,Water Shortage,Resolved,2026-09-27,2026-10-28,Dissatisfied
+PK-PMDU-2026-101130,Rawalpindi Region,Punjab,Chakwal,SNGPL Gas,Water Shortage,Resolved,2026-02-13,2026-02-23,Dissatisfied
+PK-PMDU-2026-101132,Rawalpindi Region,Punjab,Rawalpindi,IESCO / Power,Water Shortage,Forwarded,2026-02-18,,Pending
+PK-PMDU-2026-101140,Rawalpindi Region,Punjab,Jhelum,District Administration,Water Shortage,Response Awaited,2026-10-12,,Pending
+PK-PMDU-2026-101159,Rawalpindi Region,Punjab,Chakwal,Revenue & Land,Water Shortage,Resolved,2026-08-07,2026-09-10,Dissatisfied
+PK-PMDU-2026-101171,Rawalpindi Region,Punjab,Rawalpindi,District Administration,Water Shortage,Resolved,2026-03-06,2026-03-20,Satisfied
+PK-PMDU-2026-101172,Rawalpindi Region,Punjab,Attock,SNGPL Gas,Water Shortage,Resolved,2026-04-18,2026-04-29,Satisfied
+PK-PMDU-2026-101178,Rawalpindi Region,Punjab,Murree,Revenue & Land,Water Shortage,Resolved,2026-09-07,2026-10-11,Dissatisfied
+PK-PMDU-2026-101192,Rawalpindi Region,Punjab,Attock,Health Department,Water Shortage,Resolved,2026-10-15,2026-10-23,Neutral
+

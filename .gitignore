@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit config / cache
+.streamlit/secrets.toml
+
+# Sensitive Data & User Uploads
+data/uploads/*
+!data/uploads/.gitkeep
+data/*.db
+data/*.sqlite
+*.sqlite3
+*.db
+
+# Generated reports & outputs
+reports/generated/*
+!reports/generated/.gitkeep
+*.pdf
+downloads/
+temp/
+
+# IDE & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
