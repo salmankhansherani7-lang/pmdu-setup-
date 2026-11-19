@@ -8,9 +8,20 @@ html, body, [class*="css"], .stApp {
     color: #0F172A !important;
 }
 
-/* ── Streamlit Native Multi-Page Nav Hiding ── */
-[data-testid="stSidebarNav"] {
+/* ── Streamlit Native Multi-Page Nav Hiding (all 1.x selectors) ── */
+[data-testid="stSidebarNav"],
+[data-testid="stSidebarNavContainer"],
+[data-testid="stSidebarNavItems"],
+[data-testid="stSidebarNavLink"],
+nav[data-testid="stSidebarNav"],
+section[data-testid="stSidebarNav"],
+div[data-testid="stSidebarNavContainer"],
+ul[data-testid="stSidebarNavItems"] {
     display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    max-height: 0 !important;
 }
 
 /* ── Sidebar Styling: Crisp White, Clean Borders ── */

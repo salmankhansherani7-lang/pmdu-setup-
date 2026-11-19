@@ -9,6 +9,9 @@ font = "sans serif"
 [client]
 showSidebarNavigation = false
 
+[ui]
+hideTopBar = false
+
 [server]
 headless = true
 

@@ -38,6 +38,31 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+# ── Hide Streamlit default auto-navigation immediately (before CSS file) ───────
+# Covers all Streamlit 1.x testid variants so the dark auto-nav never appears.
+st.markdown("""
+<style>
+/* Hide Streamlit's built-in multi-page nav sidebar (all versions) */
+[data-testid="stSidebarNav"],
+[data-testid="stSidebarNavContainer"],
+[data-testid="stSidebarNavItems"],
+[data-testid="stSidebarNavLink"],
+nav[data-testid="stSidebarNav"],
+section[data-testid="stSidebarNav"],
+div[data-testid="stSidebarNavContainer"],
+ul[data-testid="stSidebarNavItems"],
+.st-emotion-cache-1cypcdb,
+.eczjsme13,
+header[data-testid="stHeader"] .stMainMenuButton {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    max-height: 0 !important;
+    overflow: hidden !important;
+}
+</style>
+""", unsafe_allow_html=True)
+
 # ── Inject Modern Enterprise CSS ─────────────────────────────────────────────
 css_file = os.path.join(BASE_DIR, "styles", "custom.css")
 if os.path.exists(css_file):
